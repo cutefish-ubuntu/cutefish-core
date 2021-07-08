@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 16 Oct 2014 17:22:15 +0200
+Source: cutefish-core
+Binary: cutefish-core
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Changed-By: CutefishOS <cutefishos@foxmail.com>
+Description:
+ cutefish-core - CutefishOS System Components
+Changes:
+ cutefish-core (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release (CutefishOS)  <cutefishos@foxmail.com>
+Checksums-Sha1:
+ 59cc83c20ee963692509d98dc78c6b19eb7dc915 6371220 cutefish-core-dbgsym_0.1_amd64.ddeb
+ 4a820ac3b9bf0713e06fd4bdbd285d61831865ca 16126 cutefish-core_0.1_amd64.buildinfo
+ e0563855a4744f8664d4fe2d6aadec0dcf70e458 135148 cutefish-core_0.1_amd64.deb
+Checksums-Sha256:
+ 03b9a2f01694e52ba0cc79d17328ab399bfaf66ae5065df6becd5c110c9bcf5c 6371220 cutefish-core-dbgsym_0.1_amd64.ddeb
+ 9ddfbc49a2f42aff53084b09be87dbce82c86791269aeb8c40192b3f33630391 16126 cutefish-core_0.1_amd64.buildinfo
+ 3ade251e10d9110ec6f8a41ca9f412d7b141ab9af5c92ad6d7a93ecc7ee01174 135148 cutefish-core_0.1_amd64.deb
+Files:
+ c103ccbce93d26649359405fd1cc412d 6371220 debug optional cutefish-core-dbgsym_0.1_amd64.ddeb
+ d28c345bebb13eecdc3c1c468dd5d2f6 16126 devel optional cutefish-core_0.1_amd64.buildinfo
+ ad0b5491489d87be895106ba161903ea 135148 devel optional cutefish-core_0.1_amd64.deb
